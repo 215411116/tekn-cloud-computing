@@ -1,8 +1,11 @@
 # Teknologi cloud minggu 1
 
-# Latihan 
-## Hasil instal git desktop
-![hasil](https://github.com/215411116/tekn-cloud-computing/blob/main/minggu-01/gambar-01.jpg?raw=true)
+## Kelompok
+devia wisnu raharjo 215411116 (upstream author)
+Rahadiyan Bondan Permadi 215411119 (kontributor)
 
-## Hasil membuat repo tekn-cloud-computing
-![hasil](https://github.com/215411116/tekn-cloud-computing/blob/main/minggu-01/gambar-02.jpg?raw=true)
+## setting Rahadiyan Bondan Permadi 215411119 sebagai kontributor
+![hasil](https://github.com/215411116/tekn-cloud-computing/blob/main/minggu-01/gambar-03.jpg?raw=true)
+
+## ujicoba mengirim file test-file-kolaborasi.md
+![hasil](https://github.com/215411116/tekn-cloud-computing/blob/main/minggu-01/gambar-04.jpg?raw=true)
