@@ -38,6 +38,7 @@ Perangkat lunak sebagai layanan (SaaS) memungkinkan pengguna untuk tersambung da
 
 SaaS memberikan solusi perangkat lunak lengkap yang Anda beli dengan metode PAYG dari penyedia cloud. Anda menyewa penggunaan aplikasi untuk organisasi, dan pengguna Anda menyambungkannya melalui Internet, biasanya dengan browser web. Semua infrastruktur dasar, middleware, perangkat lunak aplikasi, dan data aplikasi berada di pusat data penyedia layanan. Penyedia layanan mengelola perangkat keras dan perangkat lunak, dan dengan perjanjian layanan yang sesuai, akan memastikan ketersediaan dan keamanan aplikasi dan data Anda juga. SaaS memungkinkan organisasi Anda untuk memulai dan menjalankan aplikasi dengan cepat dengan biaya awal yang minimal.
 
+![hasil](https://github.com/215411116/tekn-cloud-computing/blob/main/minggu-02/saas.jpg?raw=true)
 
 ## Langkah-langkah membangun aplikasi SaaS dari awal
 - Conduct market, client and competitor analysis
