@@ -1,4 +1,4 @@
-# Teknologi cloud minggu 1
+# Teknologi cloud minggu 3
 
 # Latihan 
 ## Prepare the app
